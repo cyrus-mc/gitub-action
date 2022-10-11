@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo in here
+echo "Goodbye"
